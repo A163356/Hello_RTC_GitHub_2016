@@ -1,1 +1,2 @@
 Test 1 to be done with Wifi with Atos Proxy !
+Test avec RTC WI ID for comment
